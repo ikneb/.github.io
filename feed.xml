@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>A-Frame</title>
+    <link>https://aframe.io/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>Building Blocks for the VR Web</description>
+    <pubDate>Sun, 07 Aug 2016 18:42:51 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>A Week of A-Frame 24</title>
+      <link>https://aframe.io/blog/awoa-24/</link>
+      <guid>https://aframe.io/blog/awoa-24/</guid>
+      <pubDate>Thu, 04 Aug 2016 21:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;0.3.0 &lt;a href=&quot;https://github.com/aframevr/aframe/milestone/2&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;milestone burndown&lt;/a&gt;!
+While we still try 
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>0.3.0 <a href="https://github.com/aframevr/aframe/milestone/2" target="_blank" rel="external">milestone burndown</a>!
+While we still try to get the release out, augmented reality continues to creep
+in…</p>
+]]></content:encoded>
+      
+      <comments>https://aframe.io/blog/awoa-24/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>A Week of A-Frame 23</title>
+      <link>https://aframe.io/blog/awoa-23/</link>
+      <guid>https://aframe.io/blog/awoa-23/</guid>
+      <pubDate>Thu, 28 Jul 2016 21:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;It now looks finally realistic for an 0.3.0 release next week! The &lt;a href=&quot;https://github.com/aframevr/aframe/milestone/2&quot; target=&quot;_blan
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>It now looks finally realistic for an 0.3.0 release next week! The <a href="https://github.com/aframevr/aframe/milestone/2" target="_blank" rel="external">GitHub
+milestone</a> has been updated.</p>
+<p><a href="http://blairmacintyre.me/" target="_blank" rel="external">Blair MacIntyre</a>, a Georgia Tech professor researching
+augmented reality got A-Frame working in the Argon AR Browser:</p>
+<video autoplay loop src="/images/awoa/argon.mp4" width="240">
+</video>]]></content:encoded>
+      
+      <comments>https://aframe.io/blog/awoa-23/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>A Week of A-Frame 22</title>
+      <link>https://aframe.io/blog/awoa-22/</link>
+      <guid>https://aframe.io/blog/awoa-22/</guid>
+      <pubDate>Thu, 21 Jul 2016 21:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;Tracked controllers has landed! Use the HTC Vive controllers with A-Frame. NPR
+has published a WebVR site, rondagdag hooked up A-Frame to
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>Tracked controllers has landed! Use the HTC Vive controllers with A-Frame. NPR
+has published a WebVR site, rondagdag hooked up A-Frame to control a robot with
+Leap Motion, and we now have an initial community code of conduct!</p>
+<p>0.3.0 is still in progress, and several members of the team will be out next
+week. We need to land <a href="https://github.com/aframevr/aframe/pull/1474" target="_blank" rel="external">improved embedded scene
+support</a>, fix the <a href="https://github.com/aframevr/aframe/issues/1541" target="_blank" rel="external">resolution
+quality regression on VR
+mobile</a>, implement built-in
+link traversal support, and <a href="https://github.com/aframevr/aframe-site/tree/redesign" target="_blank" rel="external">refresh the
+homepage</a>. We may
+publish an official beta build next week to hold over depending on our
+progress.</p>
+]]></content:encoded>
+      
+      <comments>https://aframe.io/blog/awoa-22/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>A Week of A-Frame 21</title>
+      <link>https://aframe.io/blog/awoa-21/</link>
+      <guid>https://aframe.io/blog/awoa-21/</guid>
+      <pubDate>Thu, 14 Jul 2016 21:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;Where’s 0.3.0? It will take yet another week or so. A lot of work on our plates,
+but it will be worth the wait!&lt;/p&gt;
+
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>Where’s 0.3.0? It will take yet another week or so. A lot of work on our plates,
+but it will be worth the wait!</p>
+]]></content:encoded>
+      
+      <comments>https://aframe.io/blog/awoa-21/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>A Week of A-Frame 20</title>
+      <link>https://aframe.io/blog/awoa-20/</link>
+      <guid>https://aframe.io/blog/awoa-20/</guid>
+      <pubDate>Thu, 07 Jul 2016 21:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;The &lt;a href=&quot;https://github.com/aframevr/aframe-editor&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;A-Frame Editor&lt;/a&gt; is publicly
+underway, and the s
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>The <a href="https://github.com/aframevr/aframe-editor" target="_blank" rel="external">A-Frame Editor</a> is publicly
+underway, and the slated release target for 0.3.0 is the end of next week!</p>
+<p><img src="/images/awoa/editor-teaser.jpg" alt="Editor Teaser"></p>
+]]></content:encoded>
+      
+      <comments>https://aframe.io/blog/awoa-20/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>A Week of A-Frame 19</title>
+      <link>https://aframe.io/blog/awoa-19/</link>
+      <guid>https://aframe.io/blog/awoa-19/</guid>
+      <pubDate>Thu, 30 Jun 2016 21:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;A-Frame 0.3.0 and the A-Frame Editor gearing up for release. Stand by.&lt;/p&gt;
+
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>A-Frame 0.3.0 and the A-Frame Editor gearing up for release. Stand by.</p>
+]]></content:encoded>
+      
+      <comments>https://aframe.io/blog/awoa-19/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>A Week of A-Frame 18</title>
+      <link>https://aframe.io/blog/awoa-18/</link>
+      <guid>https://aframe.io/blog/awoa-18/</guid>
+      <pubDate>Thu, 16 Jun 2016 21:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;The Mozilla VR team got together in London with contributors, &lt;a href=&quot;https://twitter.com/donrmccurdy&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Do
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>The Mozilla VR team got together in London with contributors, <a href="https://twitter.com/donrmccurdy" target="_blank" rel="external">Don
+McCurdy</a> and <a href="https://drawvr.com" target="_blank" rel="external">DrawVR</a>, who
+have been with A-Frame since the start. And
+<a href="https://twitter.com/georational" target="_blank" rel="external">@georational</a> from down the street stopped by
+to say hi as well. There’s strong momentum heading into the second half of
+2016, let’s do special things to finish off The Year of VR!</p>
+]]></content:encoded>
+      
+      <comments>https://aframe.io/blog/awoa-18/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>A Week of A-Frame 17</title>
+      <link>https://aframe.io/blog/awoa-17/</link>
+      <guid>https://aframe.io/blog/awoa-17/</guid>
+      <pubDate>Thu, 09 Jun 2016 21:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;The entire Mozilla VR team, &lt;a href=&quot;https://twitter.com/donrmccurdy&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Don McCurdy&lt;/a&gt;, and
+&lt;a href=&quot;https:
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>The entire Mozilla VR team, <a href="https://twitter.com/donrmccurdy" target="_blank" rel="external">Don McCurdy</a>, and
+<a href="https://twitter.com/drawvr" target="_blank" rel="external">DrawVR</a> will be hacking on WebVR demos for a
+straight week in London. Forecast calls for a storm next week.</p>
+]]></content:encoded>
+      
+      <comments>https://aframe.io/blog/awoa-17/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>A Week of A-Frame 16</title>
+      <link>https://aframe.io/blog/awoa-16/</link>
+      <guid>https://aframe.io/blog/awoa-16/</guid>
+      <pubDate>Thu, 02 Jun 2016 21:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;The future is looking bright with WebVR being incubated by W3C. Look forward to
+A Summer of A-Frame.&lt;/p&gt;
+
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>The future is looking bright with WebVR being incubated by W3C. Look forward to
+A Summer of A-Frame.</p>
+]]></content:encoded>
+      
+      <comments>https://aframe.io/blog/awoa-16/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>A Week of A-Frame 15</title>
+      <link>https://aframe.io/blog/awoa-15/</link>
+      <guid>https://aframe.io/blog/awoa-15/</guid>
+      <pubDate>Thu, 26 May 2016 21:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;&lt;em&gt;A-Frame intensifies&lt;/em&gt; as we pass 2000 GitHub stars and 800 Slack members! Sneak peeks of multiuser, embedded scenes, room-scale, a
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p><em>A-Frame intensifies</em> as we pass 2000 GitHub stars and 800 Slack members! Sneak peeks of multiuser, embedded scenes, room-scale, asymmetric gaming, the A-Frame Editor, and link traversal at SFHTML5 WebVR meetup.</p>
+<p>Thanks to Matt Simpson for the many contributions this week!</p>
+]]></content:encoded>
+      
+      <comments>https://aframe.io/blog/awoa-15/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>A Week of A-Frame 14</title>
+      <link>https://aframe.io/blog/awoa-14/</link>
+      <guid>https://aframe.io/blog/awoa-14/</guid>
+      <pubDate>Thu, 19 May 2016 21:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;I have A-Dream that one day A-Frame experiences become multi-user.&lt;/p&gt;
+
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>I have A-Dream that one day A-Frame experiences become multi-user.</p>
+]]></content:encoded>
+      
+      <comments>https://aframe.io/blog/awoa-14/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>A Week of A-Frame 13</title>
+      <link>https://aframe.io/blog/awoa-13/</link>
+      <guid>https://aframe.io/blog/awoa-13/</guid>
+      <pubDate>Thu, 12 May 2016 21:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;Got room-scale?&lt;/p&gt;
+
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>Got room-scale?</p>
+]]></content:encoded>
+      
+      <comments>https://aframe.io/blog/awoa-13/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>A Week of A-Frame 12</title>
+      <link>https://aframe.io/blog/awoa-12/</link>
+      <guid>https://aframe.io/blog/awoa-12/</guid>
+      <pubDate>Thu, 05 May 2016 21:00:00 GMT</pubDate>
+      <description>
+      
+      </description>
+      
+      <comments>https://aframe.io/blog/awoa-12/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>A Week of A-Frame 11</title>
+      <link>https://aframe.io/blog/awoa-11/</link>
+      <guid>https://aframe.io/blog/awoa-11/</guid>
+      <pubDate>Thu, 28 Apr 2016 21:00:00 GMT</pubDate>
+      <description>
+      
+      </description>
+      
+      <comments>https://aframe.io/blog/awoa-11/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>A Week of A-Frame 10</title>
+      <link>https://aframe.io/blog/awoa-10/</link>
+      <guid>https://aframe.io/blog/awoa-10/</guid>
+      <pubDate>Thu, 21 Apr 2016 21:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;&lt;a href=&quot;https://github.com/mayognaise&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Mayo&lt;/a&gt; dropping shaders, &lt;a href=&quot;http://altvr.com&quot; target=&quot;_bla
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p><a href="https://github.com/mayognaise" target="_blank" rel="external">Mayo</a> dropping shaders, <a href="http://altvr.com" target="_blank" rel="external">AltspaceVR</a> asking A-Frame for a dance, and <a href="https://scenevr.com" target="_blank" rel="external">SceneVR</a> baking scenes. All vying for the crown of A Week on A-Frame, but winter is coming as <a href="https://twitter.com/donmccurdy" target="_blank" rel="external">Don McCurdy</a> marches <a href="https://github.com/aframevr/aframe/pull/1248" target="_blank" rel="external">the revamped controls API</a>.</p>
+]]></content:encoded>
+      
+      <comments>https://aframe.io/blog/awoa-10/#disqus_thread</comments>
+    </item>
+    
+  </channel>
+</rss>
