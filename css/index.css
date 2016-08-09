@@ -25,7 +25,7 @@ pre .lisp .title,
 pre .clojure .built_in,
 pre .nginx .title,
 pre .tex .special {
-  color: #2973b7;
+  color: #fefefe;
 }
 pre .class .title {
   color: #fff;
