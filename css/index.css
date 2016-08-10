@@ -674,7 +674,7 @@ ul {
   list-style-type: none;
 }
 .logo__wordmark {
-  background: url("../images/aframe-name-white.svg") no-repeat;
+  background: url("../images/logo.png") no-repeat;
 }
 .sidebar {
   background: #372f4c;
