@@ -5,7 +5,7 @@
     "slug": "home",
     "scene_url": "https://aframe.io/aframe/examples/animation-aframe-logo/?ui=false",
     "source_url": "https://github.com/aframevr/aframe/blob/master/examples/animation/aframe-logo/index.html",
-    "title": "A-Frame Logo Animation"
+    "title": "Idea Soft Animation"
   },
   "showcase": [
     {
@@ -14,6 +14,13 @@
       "scene_url": "https://aframe.io/aframe/examples/showcase-composite/",
       "source_url": "https://github.com/aframevr/aframe/blob/master/examples/showcase/composite/index.html",
       "title": "Composite"
+    },
+    {
+      "section": "showcase",
+      "slug": "composite",
+      "scene_url": "https://aframe.io/aframe/examples/showcase-composite/",
+      "source_url": "https://github.com/aframevr/aframe/blob/master/examples/showcase/composite/index.html",
+      "title": "Composite2"
     },
     {
       "section": "showcase",
